@@ -1,2 +1,5 @@
 const accountId=1234
-let 
+let acoountemail="diya.com"
+var accountpassword="1234"
+acoountcity="Ahmedabad"
+console.log("accountId")
